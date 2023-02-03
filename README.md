@@ -1,12 +1,11 @@
 
  [<img alt='hello <coders>! I am Doctor Space' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png"/>](https://github.com/DoctorSpace/)
 
-
-
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 &nbsp;
-<h3>About me</h3>
+
+*** About me
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 ---
@@ -16,20 +15,26 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 <img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/>
 
-
 ---
 
-<h3>Using in Front-end</h3>
+*** Using in Front-end
 <p>
  <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+&nbsp;
 
-<h3>Learning</h3>
+*** Learning
+<p>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+&nbsp;
 
-<h3>Where to find me </h3>
+*** Where to find me
 
 [<img alt="VK" src="https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
 [<img alt="Instargam" src="https://img.shields.io/badge/Doctor.Space%20-%23007EC6.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/doctor.space/)
