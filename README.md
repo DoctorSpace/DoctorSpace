@@ -15,10 +15,9 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img align="right"  height: 400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
 </div>
 
-
 </br>
 
-
+### About me
 
 <p align="right">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
