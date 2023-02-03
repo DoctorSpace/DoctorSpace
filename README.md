@@ -3,7 +3,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 <p align="right">
-[X](https://github.com/DoctorSpace/Completed-cases)
+ <a href='https://github.com/DoctorSpace/Completed-cases'>X</a>
 </p>
 
 &nbsp;
