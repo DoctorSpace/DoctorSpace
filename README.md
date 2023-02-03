@@ -34,5 +34,5 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 ### Where to find me
 <p>
- [<img alt="React" src="https://img.shields.io/badge/VK-%007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
+ [<img alt="React" src="https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
 </p>
