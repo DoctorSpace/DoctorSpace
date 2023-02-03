@@ -2,6 +2,7 @@
  [<img alt='hello <coders>! I am Doctor Space' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png"/>](https://github.com/DoctorSpace/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
+
 <p align="right">
  <a href='https://github.com/DoctorSpace/Completed-cases'>X</a>
 </p>
@@ -13,8 +14,8 @@
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 ---
-<a align="left" href='https://doctorspace.github.io/Portfolio/'><img Width=400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"></a>
-<a align="right" href='https://www.behance.net/1i_am_ds/'> <img Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"></a>
+<a align="left" href='https://doctorspace.github.io/Portfolio/'><img Width=420px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"></a>
+<a align="right" href='https://www.behance.net/1i_am_ds/'> <img Width=420px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"></a>
 </p>
 
 
