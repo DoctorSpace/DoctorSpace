@@ -13,10 +13,10 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 [<img align="left" Width=400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"/>](https://doctorspace.github.io/Portfolio/)
 [<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)
 
-### About me
 
+### Using soft
 
-<p margin-top=100px;>
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
@@ -28,5 +28,11 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+### Front-end
 
-[sabaka.net](http://sabaka.net)
+### Learning
+
+### Where to find me
+<p>
+ [<img alt="React" src="https://img.shields.io/badge/VK-%007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
+</p>
