@@ -1,7 +1,7 @@
 
  [<img alt='hello <coders>! I am Doctor Space' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png"/>](https://github.com/DoctorSpace/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
+![visitors align="left"](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 <p align="right">
  <a href='https://github.com/DoctorSpace/Completed-cases'>X</a>
@@ -19,7 +19,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 <a href='https://www.behance.net/1i_am_ds/'> <img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"></a>
 </p>
 
-<img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/> </br></br></br>
+<img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/>
 
 ---
 
