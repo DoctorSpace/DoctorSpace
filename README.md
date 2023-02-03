@@ -7,30 +7,33 @@
 
 &nbsp;
 <h3>About me</h3>
-My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, at the moment I am getting a bachelor's degree in information security at the Southern Federal University 🏫
+My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 ---
 
 [<img align="left" Width=400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"/>](https://doctorspace.github.io/Portfolio/)
 [<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)
 
-
+<p></p>
 
 ---
 
-<div>
- <h3>Using soft</h3>
- 
+<h3>Using soft</h3>
+<p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-191933?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-191933?style=for-the-badge&logo=figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-191933?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe%20Illustrator-191933?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
-</div>
+</p>
 
 
 <h3>Front-end</h3>
-
-<p></br></p> 
+<p>
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-191933?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-191933?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-191933?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-191933?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
+</p>
 
 <h3>Learning</h3>
 
