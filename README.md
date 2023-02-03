@@ -16,11 +16,10 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 </div>
 
 
+</br>
 
-<p></br></p>
-
-<p align="left">
-  
+<p>
+ 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
