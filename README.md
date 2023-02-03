@@ -11,14 +11,14 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 
 <div margin-bottom: 30px;>
- <img align="left" height: 400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" />
- <img align="right"  height: 400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
+ <img align="left" height: 100px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" />
+ <img align="right"  height: 100px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
 </div>
 
 
-<tr>
- ### About me
-</tr>
+
+### About me
+
 
 
 <p>
