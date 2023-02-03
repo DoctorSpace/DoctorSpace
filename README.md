@@ -3,17 +3,8 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 
-
-
-
-
-
-### Hi there 👋
-- ⭐️ I’m a beginner web developer
-- 👨‍💻 I know how to work in Photoshop and figma
-- 🔭 I’m currently working on language learning JS
-- 🌱 I’m currently learning in SFedU
-- ⛺ I like Python
+### About me 
+My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 
 <p>
