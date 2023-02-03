@@ -14,7 +14,8 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 [<img align="left" Width=400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"/>](https://doctorspace.github.io/Portfolio/)
 [<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)
 
-<p></p>
+<img src='https://img.shields.io/badge/Work%20in-VSCode-1f425f.svg'/>
+
 
 ---
 
@@ -27,12 +28,12 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 </p>
 
 
-<h3>Front-end</h3>
+<h3>W in Front-end</h3>
 <p>
- <img src="https://img.shields.io/badge/Visual_Studio_Code-191933?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-191933?style=for-the-badge&logo=figma&logoColor=white"/>
- <img src="https://img.shields.io/badge/Adobe%20Photoshop-191933?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
- <img src="https://img.shields.io/badge/Adobe%20Illustrator-191933?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <h3>Learning</h3>
