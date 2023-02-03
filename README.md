@@ -6,7 +6,7 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 
-### About me 
+<h3>About me</h3>
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 
@@ -16,7 +16,8 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 
 <div>
- <h1>Using soft</h1>
+ <h3>Using soft</h3>
+ 
 </div>
 
 ### Front-end
