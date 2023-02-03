@@ -22,7 +22,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 <h3>Using in Front-end</h3>
 <p>
  <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-1919336?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
