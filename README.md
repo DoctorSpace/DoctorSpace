@@ -1,4 +1,4 @@
-[<img alt='hello <coders>! I am Doctor Space' src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png" />](https://github.com/DoctorSpace/)
+[<img alt='hello <coders>! I am Doctor Space' align="center"  src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png" />](https://github.com/DoctorSpace/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
@@ -8,8 +8,8 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 
 
-<img alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" />
-<img alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
+<img align="center" alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" />
+<img align="center" alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
 
 
 <p></br></p>
