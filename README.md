@@ -6,7 +6,7 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 
-<h3>About me</h3>
+<h3>* About me</h3>
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
 
@@ -16,7 +16,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 
 <div>
- <h3>Using soft</h3>
+ <h3>* Using soft</h3>
  
  <img src="https://img.shields.io/badge/Visual_Studio_Code-191933?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-191933?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -24,9 +24,9 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img src="https://img.shields.io/badge/Adobe%20Illustrator-191933?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
 </div>
 
-### Front-end
+### * Front-end
 
-### Learning
+### * Learning
 
 ### Where to find me
 [<img alt="VK" src="https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
