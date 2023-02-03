@@ -1,5 +1,5 @@
 <p align="center">
-  [<img alt='hello <coders>! I am Doctor Space' align="center"  src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png" />](https://github.com/DoctorSpace/)
+  [<img alt='hello <coders>! I am Doctor Space' src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png"/>](https://github.com/DoctorSpace/)
 </p>
 
 
