@@ -18,9 +18,10 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 <div>
  <h3>Using soft</h3>
  
- <img src="https://img.shields.io/badge/Doctor.Space%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
- <img src="https://img.shields.io/badge/Doctor.Space%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
- <img src="https://img.shields.io/badge/Doctor.Space%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
 </div>
 
 ### Front-end
