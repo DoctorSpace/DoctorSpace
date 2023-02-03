@@ -7,8 +7,6 @@
  <a href='https://github.com/DoctorSpace/Completed-cases'>X</a>
 </p>
 
-&nbsp;
-
 ## About me
 
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
