@@ -26,7 +26,9 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 <h3>Front-end</h3>
 
-> <h3>Learning</h3>
+>> <h3>Learning</h3>
+>> * 1
+>> * 2
 
 <h3>Where to find me </h3>
 
