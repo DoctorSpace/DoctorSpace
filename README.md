@@ -3,6 +3,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
+&nbsp;
 
 ## About me
 
@@ -24,7 +25,6 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-&nbsp;
 
 ## Learning
 <p>
@@ -32,7 +32,6 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-&nbsp;
 
 ## Where to find me
 
