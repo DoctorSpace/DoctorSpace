@@ -10,10 +10,9 @@
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 &nbsp;
 
-<p></br></p>
-
+<p>
 [<img align="left" Width=400px; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"/>](https://doctorspace.github.io/Portfolio/)
-[<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)</br>
+[<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)</br></p>
 
 &nbsp;
 
