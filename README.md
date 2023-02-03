@@ -4,7 +4,7 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 
-*** About me
+## About me
 
 My name is Dmitry Melman, I am a beginner front-end developer and designer. I am from the city of Taganrog, currently receiving a bachelor's degree in information technology at SFEDU  🏫
 
@@ -17,7 +17,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 
 ---
 
-*** Using in Front-end
+## Using in Front-end
 <p>
  <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,7 +26,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 </p>
 &nbsp;
 
-*** Learning
+## Learning
 <p>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -34,7 +34,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 </p>
 &nbsp;
 
-*** Where to find me
+## Where to find me
 
 [<img alt="VK" src="https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
 [<img alt="Instargam" src="https://img.shields.io/badge/Doctor.Space%20-%23007EC6.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/doctor.space/)
