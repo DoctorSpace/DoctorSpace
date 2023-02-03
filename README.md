@@ -19,7 +19,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 <a href='https://www.behance.net/1i_am_ds/'> <img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"></a>
 </p>
 
-<img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/>
+<img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/> </br></br></br>
 
 ---
 
