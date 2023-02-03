@@ -12,7 +12,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
   <img align="right" alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
 </div>
 
-<br/>
+<p></br></p>
 
 
 <p>
