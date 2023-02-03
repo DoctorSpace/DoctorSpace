@@ -15,7 +15,7 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img align="right"  height: 400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" />
 </div>
 
-<divider/>
+---
 
 ### About me
 
