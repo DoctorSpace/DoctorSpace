@@ -14,11 +14,10 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
 [<img align="right" Width=400px; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"/>](https://www.behance.net/1i_am_ds/)
 
 
-### Using soft
 
-<p>
-
-</p>
+<div>
+ <h1>Using soft</h1>
+</div>
 
 ### Front-end
 
