@@ -24,11 +24,13 @@ My name is Dmitry Melman, I am a beginner front-end developer and designer. I am
  <img src="https://img.shields.io/badge/Adobe%20Illustrator-191933?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
 </div>
 
+<p></br></p>
+
 <h3>Front-end</h3>
 
->> <h3>Learning</h3>
->> * 1
->> * 2
+<p></br></p> 
+
+<h3>Learning</h3>
 
 <h3>Where to find me </h3>
 
