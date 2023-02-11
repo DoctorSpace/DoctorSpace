@@ -33,7 +33,7 @@
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=loose._.cannon&name=true&theme=default&hide_clan=true)  
+![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true)  
 
 ## Мои контакты
 
