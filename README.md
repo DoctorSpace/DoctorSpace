@@ -24,13 +24,13 @@
  <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-191933?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ## Изучаю
 <p>
- <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]"/>
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="[https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white]"/>
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
