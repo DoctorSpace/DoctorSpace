@@ -34,9 +34,9 @@
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true)
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
-![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true)
+<!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
 
 ## Мои контакты
 
