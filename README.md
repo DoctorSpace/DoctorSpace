@@ -1,4 +1,3 @@
-[<img target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/mee.png"/>](https://github.com/DoctorSpace/Completed-cases)
 [<img alt='hello <coders>! I am Doctor Space' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/Hello.png"/>](https://github.com/DoctorSpace/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
@@ -30,7 +29,8 @@
 ## Изучаю
 <p>
  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
