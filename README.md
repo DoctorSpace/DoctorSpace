@@ -29,11 +29,12 @@
 </p>
 
 ## Был опыт разработки Back-end приложения на:
+<p>
  <img src="https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src=" https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge"/>
-
+</p>
 
 ## Изучаю
 <p>
