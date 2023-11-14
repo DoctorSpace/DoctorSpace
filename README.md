@@ -17,7 +17,7 @@
 
 ---
 
-## Мой стек
+### Основной стек
 <p>
  <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,15 +28,15 @@
  <img src="https://img.shields.io/badge/styled--components-191933?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-## Был опыт разработки Back-end приложения на:
+### Был опыт разработки Back-end части:
 <p>
  <img src="https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src=" https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## Изучаю
+### Изучаю
 <p>
  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
