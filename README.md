@@ -8,10 +8,10 @@
 Меня зовут Дмитрий Мельман, я начинающий Front-end Developer. Учусь на 4-ом курсе в ЮФУ по направлению Информационная Безопасность 🏫
 
 ---
-
-<a href='https://doctorspace.github.io/Portfolio/' target="_blank"> <img align="left" Width=46%; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" ></a>
-<a href='https://www.behance.net/1i_am_ds/' target="_blank"> <img align="right" Width=46%; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" ></a>
-</p>
+<div>
+ <a href='https://doctorspace.github.io/Portfolio/' target="_blank"> <img align="left" Width=46%; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg" ></a>
+ <a href='https://www.behance.net/1i_am_ds/' target="_blank"> <img align="right" Width=46%; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg" ></a>
+</div>
 
 <img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/>
 
