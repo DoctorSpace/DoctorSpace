@@ -17,38 +17,40 @@
 ---
 
 #### Основной стек
-<p>
- <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-191933?style=for-the-badge&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Router-191933?style=for-the-badge&logo=react-router&logoColor=white"/>
- <img src="https://img.shields.io/badge/styled--components-191933?style=for-the-badge&logo=styled-components&logoColor=white"/>
-</p>
+
+<img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-191933?style=for-the-badge&logo=react&logoColor=white"/>
+ 
+<img src="https://img.shields.io/badge/React_Router-191933?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-191933?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
 
 ##### Был опыт разработки Back-end части:
-<p>
- <img src="https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+
+<img src="https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 
 ##### Изучаю
-<p>
- <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white"/>
-</p>
+
+<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white"/>
 
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
+
+---
 
 #### Мои контакты
 
