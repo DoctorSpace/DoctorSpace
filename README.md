@@ -2,10 +2,16 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
+### Добро пожаловать в мир разработок 👋
+#### Меня зовут Дмитрий и я начинающий Front-end разработчик
+
+
 
 #### Обо мне
 
-Меня зовут Дмитрий Мельман, я начинающий Front-end Developer. Учусь на 4-ом курсе в ЮФУ по направлению Информационная Безопасность 🏫
+Учусь на 4-ом курсе в ЮФУ по направлению Информационная Безопасность 🏫
+Активна изучаю web технологии в особенности React
+Автоматизирую рутинные задачи
 
 ---
 
@@ -17,6 +23,16 @@
 ---
 
 #### Основной стек
+![HYML5](https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React.js](https://img.shields.io/badge/React-191933?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white)
+
+![Redux](https://img.shields.io/badge/Redux-191933?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-191933?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white)
+
 <p>
  <img src="https://img.shields.io/badge/HTML5-191933?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white"/>
