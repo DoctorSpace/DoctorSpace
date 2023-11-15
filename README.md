@@ -33,7 +33,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-##### Был опыт разработки Back-end части:
+#### Был опыт разработки Back-end части:
 ![Node.js](https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-##### Изучаю:
+#### Изучаю:
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
