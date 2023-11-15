@@ -8,18 +8,15 @@
 ---
 
 #### Обо мне
-
 1. Учусь на 4-ом курсе в ЮФУ по направлению Информационная Безопасность 🏫
 2. Активна изучаю web технологии в особенности React
 3. Автоматизирую рутинные задачи
 
 ---
-
 <a href='https://doctorspace.github.io/Portfolio/' target="_blank"> <img Width=49%; alt="PORTFOLIO" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/PORTFOLIO-developer.svg"></a>
 <a href='https://www.behance.net/1i_am_ds/' target="_blank"> <img Width=49%; alt="BEHANCE" src="https://github.com/DoctorSpace/DoctorSpace/raw/main/BEHANCE-designer.svg"></a>
 
 <img src='https://img.shields.io/badge/Works%20in-VSCode & Figma-1f425f.svg'/>
-
 ---
 
 #### Основной стек
@@ -35,15 +32,14 @@
 
 
 ##### Был опыт разработки Back-end части:
-
 ![Node.js](https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-191933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-191933?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
-##### Изучаю
-
+##### Изучаю:
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,6 +47,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)
 
+---
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,9 +55,7 @@
 
 ---
 
-#### Мои контакты
-
-[<img alt="VK" src="https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
-[<img alt="Instargam" src="https://img.shields.io/badge/Doctor.Space%20-%23007EC6.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/doctor.space/)
-[<img alt="YouTube" src="https://img.shields.io/badge/Doctor.Space%20-%23007EC6.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UC2Kz_dPKuC3gzTQWJHJy5AA)
-[<img alt="Telegram" src="https://img.shields.io/badge/@Doctor__space-007EC6?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Doctor_Space)
+#### Мои контакты:
+[![VK](https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/1i_am_ds)
+[![Telegram](https://img.shields.io/badge/@Doctor__space-007EC6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doctor_Space)
+[![Mail](https://img.shields.io/badge/-eagle.217@mail.ru-23007EC6?style=for-the-badge&logo=Gmail)](mailto:jackassdimas1@gmail.com)
