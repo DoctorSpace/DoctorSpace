@@ -3,7 +3,7 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
 
 
-## Обо мне
+#### Обо мне
 
 Меня зовут Дмитрий Мельман, я начинающий Front-end Developer. Учусь на 4-ом курсе в ЮФУ по направлению Информационная Безопасность 🏫
 
@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/styled--components-191933?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-#### Был опыт разработки Back-end части:
+##### Был опыт разработки Back-end части:
 <p>
  <img src="https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-191933?style=for-the-badge&logo=Firebase&logoColor=white"/>
@@ -35,7 +35,7 @@
  <img src="https://img.shields.io/badge/Express.js-191933?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-#### Изучаю
+##### Изучаю
 <p>
  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -50,7 +50,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
 
-## Мои контакты
+#### Мои контакты
 
 [<img alt="VK" src="https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/1i_am_ds)
 [<img alt="Instargam" src="https://img.shields.io/badge/Doctor.Space%20-%23007EC6.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/doctor.space/)
