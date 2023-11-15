@@ -49,7 +49,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)
 
----
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
