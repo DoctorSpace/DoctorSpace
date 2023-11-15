@@ -58,4 +58,4 @@
 #### Мои контакты:
 [![VK](https://img.shields.io/badge/VK-%23007EC6.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/1i_am_ds)
 [![Telegram](https://img.shields.io/badge/@Doctor__space-007EC6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doctor_Space)
-[![Mail](https://img.shields.io/badge/-Gmail-007EC6?style=for-the-badge&logo=Gmail)](mailto:jackassdimas1@gmail.com)
+[![Mail](https://img.shields.io/badge/-Gmail-23007EC6?style=for-the-badge&logo=Gmail)](mailto:1doctorspace@gmail.com)
