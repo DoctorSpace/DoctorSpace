@@ -2,6 +2,7 @@
 
 <!-- ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00) -->
 ![Wakapi Today](https://wakapi.dev/api/badge/DoctorSpace/interval:today?label=today)
+![Wakapi Last 30d](https://wakapi.dev/api/badge/DoctorSpace/DoctorSpace/interval:30_days?label=last%2030d)
 
 ### Добро пожаловать в мир разработок 👋
 #### Меня зовут Дмитрий и я начинающий Front-end разработчик
