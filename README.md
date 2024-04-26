@@ -1,6 +1,7 @@
 [<img alt='hello <coders>! I am Doctor Space' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/HellWorld.png"/>](https://github.com/DoctorSpace/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00)
+<!-- ![visitors](https://vbr.wocr.tk/badge?page_id=DoctorSpace.DoctorSpace&color=00cf00) -->
+![Wakapi Today](https://wakapi.dev/api/badge/DoctorSpace/interval:today?label=today)
 
 ### Добро пожаловать в мир разработок 👋
 #### Меня зовут Дмитрий и я начинающий Front-end разработчик
