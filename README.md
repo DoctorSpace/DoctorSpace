@@ -28,11 +28,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-191933?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-191933?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/React-191933?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white)
-
-![Redux](https://img.shields.io/badge/Redux-191933?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-191933?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-191933?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-191933?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-191933?style=for-the-badge&logo=git&logoColor=white)
 
 
 #### Был опыт разработки Back-end части:
