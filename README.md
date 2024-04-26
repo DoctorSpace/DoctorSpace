@@ -50,7 +50,7 @@
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)
 
 
-[![Wakapi Week Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e](https://github-readme-stats.vercel.app/api/wakatime?username=DoctorSpace&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact))]
+![Wakapi Week Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e](https://github-readme-stats.vercel.app/api/wakatime?username=DoctorSpace&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact))
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
