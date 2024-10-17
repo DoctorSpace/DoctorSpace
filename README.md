@@ -42,12 +42,10 @@
 ---
 
 #### Изучаю:
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%2320232A.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Wakapi All Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoctorSpace&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
