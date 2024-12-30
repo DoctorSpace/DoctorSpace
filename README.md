@@ -53,7 +53,7 @@
 <!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
 
 
-https://wakapi.dev/api/activity/chart/DoctorSpace.svg
+![Wakapi All Stats](https://wakapi.dev/api/activity/chart/DoctorSpace.svg)
 
 ---
 
