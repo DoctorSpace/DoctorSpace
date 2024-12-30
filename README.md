@@ -51,9 +51,7 @@
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=DoctorSpace&name=true&theme=default&hide_clan=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSpace&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ![](https://leetcard.jacoblin.cool/DoctorSpace?animation=true) -->
-
-
-![Wakapi All Stats](https://wakapi.dev/api/activity/chart/DoctorSpace.svg)
+<!-- ![Wakapi All Stats](https://wakapi.dev/api/activity/chart/DoctorSpace.svg) -->
 
 ---
 
